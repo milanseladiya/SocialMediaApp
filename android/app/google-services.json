@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991981497347",
+    "project_id": "socialmedia-f150b",
+    "storage_bucket": "socialmedia-f150b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991981497347:android:c3ba3a9fc39ce08eb4b236",
+        "android_client_info": {
+          "package_name": "com.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991981497347-jso1h08etonqugraqtrundse9ju80a9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoxQ7MzU1A6NbOMG1LupjMIruQWHFtV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991981497347-jso1h08etonqugraqtrundse9ju80a9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991981497347-1gvdallq4agdq926ddc1a9jms9hi3imi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.socialmedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
